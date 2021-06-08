@@ -1,5 +1,4 @@
-// Written by Adam Mehaney and Jonah Rodrigo
-// Measured by Brenen Gjesdal
+// Written by Adam Mehaney
 
 function SetSpriteLookDirection(Sprite1 as integer, Sprite2 as integer)
 	Angle as float
